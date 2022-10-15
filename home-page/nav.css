@@ -1,0 +1,48 @@
+     a{
+        text-decoration: none;
+        box-sizing: border-box;
+        font-family:montserrat, sans-serif ;
+   
+     }
+     .navi{
+      margin-top: 0%;
+     }
+     .logo{
+      font-weight: 700;
+      color: #303030;
+      cursor: pointer;
+      font-size: 30px;
+      margin-left: 85px;
+      font-family:montserrat, sans-serif ;
+   
+
+     }
+     nav{
+      height: 80px;
+      width: 100%;
+      padding:0%;
+     }
+     nav ul{
+      float:right;
+     }
+     nav ul li{
+      display:inline-block;
+      text-align:end;
+     }
+     nav ul li a{
+      font-size: 13px;
+      font-weight: bold;
+      color:#505050;
+      text-transform: uppercase;
+      padding: 15px 20px;
+      
+     }
+     a.home,a:hover{
+      background-color: #FFD321;
+      transition: 0.3 s;
+     }
+   
+        
+    
+
+    

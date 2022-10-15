@@ -1,0 +1,43 @@
+
+.cnt-1{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: montserrat, sans-serif;
+    margin-top: 200px;
+    line-height:0cm;
+}
+.cnt-2{
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+    font-family: montserrat, sans-serif;
+    margin-bottom: 100px;
+
+}
+.m-1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.m-2{
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.srch-bar{
+    display:flex;
+    flex-direction: column;
+}
+.nam, .em, .tex{
+    height: 50px;
+    width: 500px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    
+}
+.mes{
+    margin-left: 620px;
+    display: inline-block;
+
+}

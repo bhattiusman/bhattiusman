@@ -1,0 +1,52 @@
+.main-2-div{
+    font-family: montserrat, sans-serif;
+
+}
+.pot-t{
+    font-weight: 700;
+    font-size: 64px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.pot-y{
+    font-weight: 700;
+    font-size: 14px;
+    margin-left: 530px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+
+}
+.g-1, .g-2, .g-3{
+    height: 40vh;
+    width: 25vw;
+margin-left: 35px;
+}
+.g-1{
+    margin-left: 130px;
+}
+.names{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 20px 20px;
+    font-weight: 700;
+}
+   .T{
+margin-left: 50px;
+   }
+.M{
+    margin-right: 50px;
+}
+.sub{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-weight: 700;
+    font-size: 30px;
+}
+.D{
+    margin-left: 70px;
+}
+.dev{
+    margin-right: 50px;
+}
